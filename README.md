@@ -1,5 +1,10 @@
 # SPO
-SharePoint Code
+
+---
+
+## JSON - Get Rid of Command Bar
+
+```yaml annotate
 {
 "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/row-formatting.schema.json",
 "commandBarProps": {
@@ -39,3 +44,6 @@ SharePoint Code
 ]
 }
 }
+
+```
+---
